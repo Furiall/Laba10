@@ -1,0 +1,3 @@
+hello laba 10
+git hub 
+new repository
